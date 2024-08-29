@@ -1,0 +1,3 @@
+/Users/misaelcuadrado/CLionProjects/helloWorld/cmake-build-debug/CMakeFiles/helloWorld.dir
+/Users/misaelcuadrado/CLionProjects/helloWorld/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/misaelcuadrado/CLionProjects/helloWorld/cmake-build-debug/CMakeFiles/rebuild_cache.dir
