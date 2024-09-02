@@ -1,20 +1,26 @@
 //************************************************************************
 // Author: Misael Cuadrado
-// Date: 29 AUG 2024
+// Date: September 2, 2024
 // Language: C++
-// Assignment: Module 2 Lab 3
-// Description: Program displays a message to the console to test and make
-// the compiler is working - traditional Hello World
+// Assignment: Module 1 Lab - Hello World
+// Description: This program outputs a simple "Hello, World!" message
+//              followed by a welcome message including the author's name.
 //************************************************************************
-#include<iostream>
-using namespace std;
 
-int main()
-{
-    // declare local variables
+#include <iostream>  // include iostream library for input and output
 
-    // display message to the user
-    cout << "Hello, World!\n";
+using namespace std;  // use the standard namespace
 
+int main() {
+    // declare a string variable to store the name
+    string name = "Misael Cuadrado";
+
+    // output a simple greeting to the console
+    cout << "hello, world!" << endl;
+
+    // output a welcome message including the author's name
+    cout << "welcome to C++" << name << "!" << endl;
+
+    // return 0 to indicate the program ended successfully
     return 0;
 }
